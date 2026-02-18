@@ -1,0 +1,7 @@
+enum NETWORK_PACKETS
+{
+    SYNC_PLAYERS = 99,
+    SPAWN_SELF = 98,
+    SPAWN_OTHER = 97,
+    
+}
